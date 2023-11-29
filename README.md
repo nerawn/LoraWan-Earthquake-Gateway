@@ -1,4 +1,8 @@
+
+
 # LoRaWAN Seismic Monitoring Station
+
+> **Note:** This project is currently in beta stage.
 
 ## Overview
 This repository is dedicated to the implementation of a seismic monitoring station using ESP8266 NodeMCU. It's designed to capture and display real-time seismic data via a web interface that is accessible over a local network.
